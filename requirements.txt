@@ -1,0 +1,5 @@
+# requirements.txt
+functions-framework==3.*
+google-cloud-bigquery==3.*
+cloudevents==1.*
+requests==2.*
